@@ -1,7 +1,7 @@
 package com;
 
 public class Model {
-    public void main() {
+    public static void main() {
         System.out.println("git code....");
     }
 }
